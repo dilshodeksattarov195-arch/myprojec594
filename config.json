@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrync",
+        "uuid": 4523904,
+        "checksum": "5cni1a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
